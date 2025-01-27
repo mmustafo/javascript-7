@@ -251,6 +251,29 @@
 
 // switch (kun) {
 //      case 1:
+//          console.log("100% yomon");
+//          break;
+//      case 2:
+//          console.log("75% yomon");
+//          break;
+//      case 3:
+//          console.log("50% yomon");
+//          break;
+//      case 4:
+//          console.log("ortacha");
+//          break;
+//      case 5:
+//          console.log("zor");
+//          break;
+//      default:
+//          console.log("Noto'g'ri baho raqami");
+//  }
+
+// case 1
+// const kun = 5;
+
+// switch (kun) {
+//      case 1:
 //          console.log("dushanba");
 //          break;
 //      case 2:
@@ -303,16 +326,16 @@
 //           console.log("yoz");
 //           break;
 //       case 8:
-//           console.log("chorshanba");
+//           console.log("kuz");
 //           break;
 //       case 9:
-//           console.log("payshanba");
+//           console.log("kuz");
 //           break;
 //       case 10:
-//           console.log("juma");
+//           console.log("kuz");
 //           break;
 //       case 11:
-//           console.log("shanba");
+//           console.log("kuz");
 //           break;
 //       case 12:
 //           console.log("qish");
